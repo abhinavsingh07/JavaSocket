@@ -1,0 +1,13 @@
+D:\practice_projects\message_management\src\com\student\model\User.java
+D:\practice_projects\message_management\src\com\student\util\ConnectionJDBC.java
+D:\practice_projects\message_management\src\com\student\model\AppError.java
+D:\practice_projects\message_management\src\com\student\model\Message.java
+D:\practice_projects\message_management\src\com\student\util\CorsEnabler.java
+D:\practice_projects\message_management\src\com\student\websocket\ChatMessageDecoder.java
+D:\practice_projects\message_management\src\com\student\websocket\ChatEndpoint.java
+D:\practice_projects\message_management\src\com\student\rest\MessageController.java
+D:\practice_projects\message_management\src\com\student\rest\UserController.java
+D:\practice_projects\message_management\src\com\student\rest\GenericExceptionMapper.java
+D:\practice_projects\message_management\src\com\student\dao\MessageDao.java
+D:\practice_projects\message_management\src\com\student\websocket\ChatMessageEncoder.java
+D:\practice_projects\message_management\src\com\student\dao\UserDao.java
